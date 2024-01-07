@@ -1,0 +1,3 @@
+Joni 75 80 65
+Edwin 85 85 90
+Reina 70
